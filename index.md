@@ -21,8 +21,9 @@
 
 > **TFSA**: *tax-free investment account*
 
-**contribution** -> Annual maximum: Changes yearly. Max of $6,000 for 2021/22.
-                Limit: all years a person was resident in Canada, indefinitely
+**contribution** -> Annual maximum: Changes yearly. Max of $6,000 for 2021/22.    
+
+                    Limit: all years a person was resident in Canada, indefinitely
                 
 **unused contribution** -> can be carried forward
 
