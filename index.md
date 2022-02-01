@@ -1,6 +1,7 @@
 # RRSP and TFSA
 
-## RRSP: basically a retirement account
+## RRSP
+    basically a retirement account
 
 **contribution** -> minimumof $29,210 or 18% of gross income
 
@@ -20,7 +21,9 @@
 **Takeaway**: Use RRSP when taxable income is high, to save on taxes!
 
 
-##  TFSA: tax-free investment account
+##  TFSA
+
+    tax-free investment account
 
 
 **contribution** -> Annual maximum: Changes yearly. Max of $6,000 for 2021/22.    
